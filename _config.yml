@@ -14,15 +14,15 @@ widgets:
 # social config
 social:
   zhihu:
-  twitter: /
-  facebook: /
+  twitter:
+  facebook:
   linkedin:
-  instagram: /
+  instagram:
   github: ByteCatalyst
 
 user:
-  name: ByteCatalyst
-  avatar: images/icon.png
+  name: hugo
+  avatar: images/avatar.png
   location: Taipei
   description: 卓越，是一種習慣
   footnotes: # footnotes
